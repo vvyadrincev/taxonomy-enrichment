@@ -1,4 +1,9 @@
-# taxonomy-enrichment
+## taxonomy-enrichment
+
+* added notebooks with simple pipelines
+* results avaliable at [vvyadrincev.isa.ru](http://vvyadrincev.isa.ru/dialog2020-taxonomy/results/)
+
+## Below is original README
 Useful materials for participants of the Dialogue 2020 shared task on taxonomy enrichment
 
 #### Baselines: [github](https://github.com/dialogue-evaluation/taxonomy-enrichment/tree/master/baselines)
