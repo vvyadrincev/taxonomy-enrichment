@@ -1,0 +1,3 @@
+[submodule "simple_elmo"]
+	path = simple_elmo
+	url = https://github.com/vvyadrincev/simple_elmo
